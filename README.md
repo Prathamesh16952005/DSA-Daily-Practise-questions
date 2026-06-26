@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0232-implement-queue-using-stacks) |
 ## Array
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
