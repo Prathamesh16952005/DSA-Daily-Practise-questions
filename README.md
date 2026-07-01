@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0169-majority-element) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0169-majority-element) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Counting
 |  |
 | ------- |
@@ -85,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0901-online-stock-span) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0646-maximum-length-of-pair-chain) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
