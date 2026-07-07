@@ -14,35 +14,26 @@
  * }
  */
 class Solution {
-    public static boolean isidentical(TreeNode root, TreeNode subRoot){
-        if(root==null && subRoot==null){
-            return true;
-        }else if( root==null||subRoot==null || root.val!=subRoot.val){
-            return false;
-        }
-
-        if(!isidentical(root.left,subRoot.left)){
-            return false;
-        }
-
-        if(!isidentical(root.right,subRoot.right)){
-            return false;
-        }
-        return true;
-    }
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-        if(root==null){
-            return false;
+        return dfs(root, subRoot, subRoot);
+    }
+
+    private boolean dfs(TreeNode node, TreeNode subNode, TreeNode subRoot){
+        if(node == null && subNode == null) return true;
+        if(node == null || subNode == null) return false;
+
+        boolean value = false;
+
+        if(node.val == subNode.val){
+            value = dfs(node.left, subNode.left, subRoot) && dfs(node.right, subNode.right, subRoot);
         }
+        if(value) return true;
 
-        if(root.val==subRoot.val){
-            if(isidentical(root,subRoot)){
-                return true;
-            }
+        if(node.val == subRoot.val){
+            value = dfs(node.left, subRoot.left, subRoot) && dfs(node.right, subRoot.right, subRoot);
         }
-       
-       return isSubtree(root.left,subRoot) || isSubtree(root.right,subRoot);
+        if(value) return true;
 
-
+        return dfs(node.left, subRoot, subRoot) || dfs(node.right, subRoot, subRoot);
     }
 }
