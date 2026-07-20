@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0139-word-break](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0239-sliding-window-maximum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Depth-First Search
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0139-word-break) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Greedy
@@ -199,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
