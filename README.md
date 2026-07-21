@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0901-online-stock-span) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Depth-First Search
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
 |  |
 | ------- |
