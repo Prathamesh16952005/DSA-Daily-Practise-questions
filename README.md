@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0572-subtree-of-another-tree) |
+| [0785-is-graph-bipartite](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0785-is-graph-bipartite) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Doubly-Linked List
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0207-course-schedule](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0785-is-graph-bipartite) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## String Matching
 |  |
@@ -223,8 +225,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
