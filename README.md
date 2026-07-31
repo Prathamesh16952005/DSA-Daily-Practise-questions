@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0239-sliding-window-maximum) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0136-single-number) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Search Tree
 |  |
