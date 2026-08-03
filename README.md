@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0912-sort-an-array) |
+| [1406-stone-game-iii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1406-stone-game-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0486-predict-the-winner) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Greedy
 |  |
@@ -246,9 +248,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
