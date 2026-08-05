@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0572-subtree-of-another-tree) |
 | [0785-is-graph-bipartite](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0785-is-graph-bipartite) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3310-remove-methods-from-project](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3310-remove-methods-from-project) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0785-is-graph-bipartite) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3310-remove-methods-from-project](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3310-remove-methods-from-project) |
 ## String Matching
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
