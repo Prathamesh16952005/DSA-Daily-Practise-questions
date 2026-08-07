@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0242-valid-anagram) |
