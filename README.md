@@ -292,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3345-smallest-divisible-digit-product-i) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
