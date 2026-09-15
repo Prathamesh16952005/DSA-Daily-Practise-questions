@@ -8,6 +8,7 @@ class Solution {
 
 
      vis[sr][sc]=true;
+
      image[sr][sc] =color;
 
         // left
