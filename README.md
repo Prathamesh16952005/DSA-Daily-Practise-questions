@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0208-implement-trie-prefix-tree) |
@@ -335,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0733-flood-fill) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
