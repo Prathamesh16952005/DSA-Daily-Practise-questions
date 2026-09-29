@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0242-valid-anagram) |
@@ -354,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
