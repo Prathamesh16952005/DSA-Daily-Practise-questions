@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0007-reverse-integer) |
 | [0486-predict-the-winner](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0877-stone-game) |
