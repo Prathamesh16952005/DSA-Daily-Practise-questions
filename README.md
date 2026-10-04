@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0678-valid-parenthesis-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0486-predict-the-winner) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1406-stone-game-iii) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0678-valid-parenthesis-string) |
 ## Geometry
 |  |
 | ------- |
