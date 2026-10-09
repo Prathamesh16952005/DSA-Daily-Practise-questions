@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0901-online-stock-span) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Design
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Tree
 |  |
 | ------- |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Geometry
 |  |
 | ------- |
