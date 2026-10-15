@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0912-sort-an-array) |
 | [1406-stone-game-iii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1406-stone-game-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3731-find-missing-elements) |
@@ -380,4 +382,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0022-generate-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
