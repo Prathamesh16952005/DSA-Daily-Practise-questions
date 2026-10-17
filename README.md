@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0242-valid-anagram) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0912-sort-an-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
