@@ -1,24 +1,19 @@
 class Solution {
     public int climbStairs(int n, int[] costs) {
-
-        int[] dp = new int[n + 1];
-
-        dp[0] = 0;
-
-        for (int j = 1; j <= n; j++) {
-
-            dp[j] = Integer.MAX_VALUE;
-
-            for (int i = Math.max(0, j - 3); i < j; i++) {
-
-                int jump = j - i;
-
-                int currentCost = dp[i] + costs[j - 1] + jump * jump;
-
-                dp[j] = Math.min(dp[j], currentCost);
-            }
+        if(n == 1) return costs[0] + 1;
+        int thirdBack = 0;
+        int secondBack = costs[0] + 1;
+        int firstBack = costs[1] + Math.min(secondBack + 1, 4);
+        int result = firstBack;
+        for(int i = 3; i <= n; i++){
+            int oneStep = firstBack + 1;
+            int twoStep = secondBack + 4;
+            int threeStep = thirdBack + 9;
+            result = costs[i - 1] + Math.min(oneStep, Math.min(twoStep, threeStep));
+            thirdBack = secondBack;
+            secondBack = firstBack;
+            firstBack = result;
         }
-
-        return dp[n];
+        return result;
     }
 }
