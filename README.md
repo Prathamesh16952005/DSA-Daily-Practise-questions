@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3731-find-missing-elements) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3693-climbing-stairs-ii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3310-remove-methods-from-project](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/0572-subtree-of-another-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
