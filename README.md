@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3693-climbing-stairs-ii](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Prathamesh16952005/DSA-Daily-Practise-questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Tree
 |  |
 | ------- |
